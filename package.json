@@ -4,5 +4,8 @@
   "workspaces": [
     "blockchain",
     "backend"
-  ]
+  ],
+  "dependencies": {
+    "typeorm": "^0.3.26"
+  }
 }
